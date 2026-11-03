@@ -2,7 +2,7 @@
 Reading the values from output and using simple logic
 hello.c
 #include<studio.h>
-voidmain()
+void main()
 {
 int a,b,c;
 printf("enter a value\n");
